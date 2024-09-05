@@ -1,2 +1,24 @@
-
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+ul{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+}
+a{
+	text-decoration:none;
+}
+li{
+	list-style-type:none;
+}
+h3{
+	margin-top:25px;
+}
+video{
+	height:200px;
+	width:250px;
+}
 /* Your CSS Code here. */
